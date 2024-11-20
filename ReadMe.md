@@ -37,7 +37,7 @@ project-root/
 To begin, clone this repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/classification-project.git
+git clone https://github.com/ThomasSecco/Multi-Algorithm-Classification.git
 cd classification-project
 ```
 #### Install Dependencies
